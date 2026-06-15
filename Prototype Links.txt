@@ -1,0 +1,7 @@
+This is the Prototype Link
+
+https://www.figma.com/make/ROFN7ICvkpgAcm6UrOnmRb/College-Hostel-Dashboard?code-node-id=0-9&p=f&t=NRkOifrlq5r6cocx-0&fullscreen=1
+
+This is the GitHub Repository
+
+https://github.com/bhaveshtickoo/webforge-hostel-app-prototype
